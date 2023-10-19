@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="MyTest98Repository"
+id="73a60437-36d5-495c-8067-d927e313ce04">
+  <codegen
+  classname="MyTest98Repository"
+  namespace="MyTest98"/>
+  <rootfolder
+  name="Root"
+  id="993cbe5f-ce3a-4518-bfaf-1afe768fce96"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

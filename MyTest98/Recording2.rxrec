@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="b399855c-a340-4f8f-835a-c77f09f27e30"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording2"
+	namespace="MyTest98">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<filename>
+				D:\case files\Ranorex Files\Demo.exe
+			</filename>
+			<workingdir>
+				D:\case files\Ranorex Files
+			</workingdir>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="73a60437-36d5-495c-8067-d927e313ce04"
+	name="MyTest98Repository"
+	relativepath="MyTest98Repository.rxrep">
+		<codegen
+		classname="MyTest98Repository"
+		namespace="MyTest98">
+		</codegen>
+		<rootfolder
+		id="993cbe5f-ce3a-4518-bfaf-1afe768fce96"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording2.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
